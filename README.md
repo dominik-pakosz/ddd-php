@@ -10,6 +10,6 @@
 * [Szkolenie DDD wprowadzenie dla biznesu - Bottega - Materiały związane ze szkoleniem](https://bottega.com.pl/szkolenie-ddd-wprowadzenie-dla-biznesu#downloads) [PL]
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) [PL]
 * 
-# Collections
+# Kolekcje
 * [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
 * [patrykwozinski/dev-stuff](https://github.com/patrykwozinski/dev-stuff)
