@@ -4,6 +4,7 @@
 # Wideo
 * [Sławomir Sobótka - DDD Q&A - wersja rozszerzona](https://www.youtube.com/watch?v=do-xqIbKZ_8) [PL]
 * [Boiling Frogs 2016 - Andrzej Krzywda - From legacy to DDD](https://www.youtube.com/watch?v=MzV2vGSTpo8&t=2s) [PL]
+* [Matthias Noback - Hexagonal Architecture - Message-Oriented Software Design](https://www.youtube.com/watch?v=K1EJBmwg9EQ) [ENG]
 
 # Książki/Materiały do pobrania
 * [Szkolenie DDD wprowadzenie dla biznesu - Bottega - Materiały związane ze szkoleniem](https://bottega.com.pl/szkolenie-ddd-wprowadzenie-dla-biznesu#downloads) [PL]
